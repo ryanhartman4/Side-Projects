@@ -1,4 +1,4 @@
-# Computer-Vision-Side-Project
-This basic computer vision project was based on an article I read earlier this year. I wanted to see if I could create something with a similar predicitve ability to the model article's author had created. I used the provided datasets and then fit a 2 layer sequential model to it. Afterwards, I took a look at the metrics of my model and tested its predictive ability. At the end I also provide anyone reading this an opportunity to see the model in action. In the future I hope to optimize this project further and find new ways to apply the knowledge I have gained from this project. 
+# Side-Projects-Repo
+The purpose of this repository is to house some of the side projects that I have attempted in the realm of machine learning and deep learning. I hope to continue to expand on the projects within this repository as I progress through my graduate degree and my career afterwards. These projects are things that I have found fascinating or believe could give me useful experience within a certain area. 
 
 
